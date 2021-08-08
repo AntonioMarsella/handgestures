@@ -1,6 +1,9 @@
-# HandGesturesDataCollecter
-Script to collect data images for hand gestures
+# Small edit from from https://github.com/Let-s-get-visual/HandGesturesDataCollector
 
-To run it from the terminal
-```python3 data_capture.py```
+To capture the data run 
+
+```python data_capture.py```
+
+See Notebook to interact with single images.
+
 
